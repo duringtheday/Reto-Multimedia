@@ -1,5 +1,3 @@
-# Multimedia en HTML
-
 <html lang="es">
 
 <head>
