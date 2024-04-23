@@ -2,7 +2,8 @@
 
 <head>
     <meta charset="UTF-8">
-    # Multimedia en HTML
+    # Multimedia
+    <title>Multimedia en HTML</title>
     <link rel="icon" href="./material/multimedia_1.png">
 </head>
 
