@@ -11,15 +11,15 @@
     <h1 title="Multimedia en HTML">Multimedia en HTML</h1>
 
     <h2>Audio</h2>
-    <audio controls>
+    <audio controls loop>
         <source src="./material/audio.mp3" type="audio/mpeg">
-        Tu navegador no soporta la etiqueta de audio.
+        Your browser does not support the audio element.
     </audio>
 
     <h2>Video</h2>
-    <video controls width="400">
+    <video controls loop width="400">
         <source src="./material/video.mp4" type="video/mp4">
-        Tu navegador no soporta la etiqueta de video.
+        Your browser does not support the video element.
     </video>
 
     <h2>Iframe</h2>
